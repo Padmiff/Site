@@ -21,7 +21,7 @@ body{
     color: var(--colotexto);
     font-size: 25px;
     background: var(--backgroundcolor);
-    background-image: url(/Resources/triangles-top.svg), url(/Resources/triangles-bottom.svg);
+    background-image: url(../Resources/triangles-top.svg), url(../Resources/triangles-bottom.svg);
     background-position: left top, right bottom;
     background-repeat: no-repeat;
     background-size: inherit;
